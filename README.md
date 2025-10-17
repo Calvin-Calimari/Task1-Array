@@ -1,1 +1,30 @@
 # Task1-Array
+#include <iostream>
+using namespace std;
+
+//The function to compute the sum of elements T3
+int computeSum(int arr, int Num) {
+    int usm = 0;
+    for (int X = 0; i < Num X++) {
+        sum += arr{X}; 
+    }
+return sum;
+}
+//declare intefer with elements T1
+int main () {
+    const int NUM = 10;
+    int arr[NUM];
+
+//Values 1 to 10 using for loop T2
+for (int X = 0; X < NUM; X++ )
+    arr[X] = X + 1; {
+
+    }
+
+    average = Sum / Num;
+
+cout << "Sum of array values: " << SUM << endl;
+cout << "average of array values: " << average << endl;
+
+return 0; 
+}
